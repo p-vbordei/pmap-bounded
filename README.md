@@ -2,6 +2,10 @@
 
 [![ci](https://github.com/p-vbordei/pmap-bounded/actions/workflows/ci.yml/badge.svg)](https://github.com/p-vbordei/pmap-bounded/actions/workflows/ci.yml)
 
+[![npm](https://img.shields.io/npm/v/pmap-bounded.svg)](https://www.npmjs.com/package/pmap-bounded)
+[![downloads](https://img.shields.io/npm/dm/pmap-bounded.svg)](https://www.npmjs.com/package/pmap-bounded)
+[![bundle](https://img.shields.io/bundlejs/size/pmap-bounded)](https://bundlejs.com/?q=pmap-bounded)
+
 `Promise.all` and `Promise.allSettled` with a **concurrency limit**, `AbortSignal` support, and an optional collect-all-errors mode. Zero dependencies.
 
 ```ts
