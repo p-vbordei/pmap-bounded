@@ -20,5 +20,5 @@
   "repository": { "type": "git", "url": "https://github.com/p-vbordei/pmap-bounded.git" },
   "bugs": { "url": "https://github.com/p-vbordei/pmap-bounded/issues" },
   "homepage": "https://github.com/p-vbordei/pmap-bounded#readme",
-  "devDependencies": { "typescript": "^5.5.0", "vitest": "^2.0.0" }
+  "devDependencies": { "typescript": "^5.5.0", "vitest": "^4.1.6" }
 }
