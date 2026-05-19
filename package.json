@@ -1,6 +1,6 @@
 {
   "name": "pmap-bounded",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "description": "Bounded-concurrency Promise.all and Promise.allSettled. AbortSignal support, optional collect-all-errors mode. Zero dependencies.",
   "keywords": [
     "promise",
