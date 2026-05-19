@@ -1,5 +1,7 @@
 # pmap-bounded
 
+[![ci](https://github.com/p-vbordei/pmap-bounded/actions/workflows/ci.yml/badge.svg)](https://github.com/p-vbordei/pmap-bounded/actions/workflows/ci.yml)
+
 `Promise.all` and `Promise.allSettled` with a **concurrency limit**, `AbortSignal` support, and an optional collect-all-errors mode. Zero dependencies.
 
 ```ts
